@@ -65,10 +65,8 @@ en:
       form:
         save_submit: Save and Preview
       update:
-        published_message: Your news was published and mailed to followers
-          channel.
-      warning_html: Remember that all published news goes directly to the
-                            email of his followers. So well review your text before sending it.
+        published_message: Your news was published and mailed to followers channel.
+      warning_html: Remember that all published news goes directly to the email of his followers. So well review your text before sending it.
     posts_menu: Manage news
     table:
       approve: Approve
